@@ -34,6 +34,23 @@ This project implements a pure Python statistical engine from scratch. It analyz
 
 ---
 
+## 📈 Law of Large Numbers (LLN) Interpretation
+
+The Monte Carlo simulation demonstrates the Law of Large Numbers.
+
+When the number of simulated days is small (e.g., 30 days), the observed crash probability fluctuates significantly and may differ greatly from the true probability of 0.045.
+
+As the number of days increases (e.g., 10,000 days), the simulated probability converges toward the true probability.
+
+### ⚠️ Business Risk
+
+It is dangerous for the startup to rely on a small dataset (e.g., 30 days) to estimate yearly maintenance costs. Small samples are highly variable and may lead to:
+
+- Underestimating failure rates → insufficient budget
+- Overestimating failure rates → wasted resources
+
+A larger dataset provides more reliable estimates and reduces decision risk.
+
 ## ⚙️ Setup Instructions
 
 ```bash
