@@ -1,0 +1,16 @@
+index,student_id,name,age,major,gpa
+S-1,101,Alex,19,CS,3.6
+S-2,102,Bela,20,Math,3.2
+S-3,103,Chen,18,Physics,3.8
+S-4,104,Dara,21,CS,3.1
+S-5,105,Eli,19,Biology,3.4
+S-6,106,Faye,22,Math,3.7
+S-7,107,Gus,20,CS,3.0
+S-8,108,Hana,18,Physics,3.5
+S-9,109,Ivan,21,Biology,3.3
+S-10,110,Jade,19,Math,3.9
+S-11,111,Kofi,23,CS,2.9
+S-12,112,Lina,20,Physics,3.6
+S-13,113,Mona,18,Biology,3.2
+S-14,114,Niko,22,CS,3.8
+S-15,115,Omar,21,Math,3.1
