@@ -1,0 +1,52 @@
+hotel,market_segment,lead_bucket,is_canceled
+City Hotel,Aviation,Q1,0.20434782608695654
+City Hotel,Aviation,Q2,0.7142857142857143
+City Hotel,Complementary,Q1,0.11777301927194861
+City Hotel,Complementary,Q2,0.125
+City Hotel,Complementary,Q3,0.125
+City Hotel,Complementary,Q4,0.0
+City Hotel,Corporate,Q1,0.1109391124871001
+City Hotel,Corporate,Q2,0.3432203389830508
+City Hotel,Corporate,Q3,0.5245901639344263
+City Hotel,Corporate,Q4,0.6571428571428571
+City Hotel,Direct,Q1,0.12532981530343007
+City Hotel,Direct,Q2,0.2446256486286138
+City Hotel,Direct,Q3,0.19487179487179487
+City Hotel,Direct,Q4,0.2177121771217712
+City Hotel,Groups,Q1,0.22641509433962265
+City Hotel,Groups,Q2,0.5261550210003818
+City Hotel,Groups,Q3,0.6453028972783144
+City Hotel,Groups,Q4,0.8292128445581131
+City Hotel,Offline TA/TO,Q1,0.1659959758551308
+City Hotel,Offline TA/TO,Q2,0.35056294779938585
+City Hotel,Offline TA/TO,Q3,0.4344945501175465
+City Hotel,Offline TA/TO,Q4,0.5573558003888529
+City Hotel,Online TA,Q1,0.21083024624101113
+City Hotel,Online TA,Q2,0.3895106063136796
+City Hotel,Online TA,Q3,0.41662140141227594
+City Hotel,Online TA,Q4,0.5022900763358779
+City Hotel,Undefined,Q1,1.0
+Resort Hotel,Complementary,Q1,0.13194444444444445
+Resort Hotel,Complementary,Q2,0.1951219512195122
+Resort Hotel,Complementary,Q3,0.42857142857142855
+Resort Hotel,Complementary,Q4,0.0
+Resort Hotel,Corporate,Q1,0.1
+Resort Hotel,Corporate,Q2,0.3244444444444444
+Resort Hotel,Corporate,Q3,0.24305555555555555
+Resort Hotel,Corporate,Q4,0.0
+Resort Hotel,Direct,Q1,0.07690164391195319
+Resort Hotel,Direct,Q2,0.1915057915057915
+Resort Hotel,Direct,Q3,0.19855222337125128
+Resort Hotel,Direct,Q4,0.24471299093655588
+Resort Hotel,Groups,Q1,0.19541984732824427
+Resort Hotel,Groups,Q2,0.3211963589076723
+Resort Hotel,Groups,Q3,0.5803212851405622
+Resort Hotel,Groups,Q4,0.42220699108978754
+Resort Hotel,Offline TA/TO,Q1,0.07468259895444361
+Resort Hotel,Offline TA/TO,Q2,0.11182934712346478
+Resort Hotel,Offline TA/TO,Q3,0.1506172839506173
+Resort Hotel,Offline TA/TO,Q4,0.21866458414681764
+Resort Hotel,Online TA,Q1,0.11143810084363351
+Resort Hotel,Online TA,Q2,0.36838893409275836
+Resort Hotel,Online TA,Q3,0.4546903460837887
+Resort Hotel,Online TA,Q4,0.5631768953068592
